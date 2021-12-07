@@ -65,7 +65,7 @@ open interval
 {a, b, c}
 set containing the elements a, b and c
 8.5
-{x ∊ ℝ|x2 < 2}
+{x ∊ ℝ|x<sup>2</sup> < 2}
 set of all real x such that x2 < 2
 8.5
 
